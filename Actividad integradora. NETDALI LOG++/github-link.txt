@@ -1,0 +1,15 @@
+TRELLO
+
+https://trello.com/b/WaF9Jxm8/dalilog
+
+
+
+Este es el link donde esta alojado mi codigo en GITHUB, 
+en el estan varios archivos, el que hace que funcione la pagina
+en el archivo index.html en el esta alojado mi codigo y la pagina principal 
+los demas archivos son de diseño y funcionalodad.
+
+https://github.com/IVAN-DALI-GARCIA/NETDALI-LOG-.git
+
+
+saludos y gracias
